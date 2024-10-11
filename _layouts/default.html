@@ -33,11 +33,23 @@
 
         <div class="contact-info">
            <p><strong>Contact Information</strong></p>
-           <p>Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
-           <p>Phone: {{ site.phone }}</p>
-           <p>LinkedIn: <a href="{{ site.linkedin }}">LinkedIn</a></p>
-          <p>GitHub: <a href="{{ site.github }}">GitHub</a></p>
-       </div>
+           <p>
+          <img src="https://img.icons8.com/ios-filled/16/000000/email.png" alt="Email Icon">
+          Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+         </p>
+         <p>
+       <img src="https://img.icons8.com/ios-filled/16/000000/phone.png" alt="Phone Icon">
+       Phone: {{ site.phone }}
+      </p>
+     <p>
+    <img src="https://img.icons8.com/ios-filled/16/000000/linkedin.png" alt="LinkedIn Icon">
+    <a href="{{ site.linkedin }}">LinkedIn</a>
+    </p>
+    <p>
+    <img src="https://img.icons8.com/ios-filled/16/000000/github.png" alt="GitHub Icon">
+    <a href="{{ site.github }}">GitHub</a>
+   </p>
+ </div>
 
         {% if site.show_downloads %}
         <ul class="downloads">
