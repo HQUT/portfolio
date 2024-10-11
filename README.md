@@ -1,18 +1,9 @@
 # M . sc Student In Computer Science
 
-# {{ site.title }}
-
-![Profile Picture]({{ site.logo }})
-
-## Contact: 
-- **Email:** [{{ site.email }}](mailto:{{ site.email }}) ![Email Icon](https://img.icons8.com/ios-filled/16/000000/email.png)
-- **Phone:** {{ site.phone }} ![Phone Icon](https://img.icons8.com/ios-filled/16/000000/phone.png)
-- [LinkedIn]({{ site.linkedin }}) ![LinkedIn Icon](https://img.icons8.com/ios-filled/16/000000/linkedin.png)
-- [GitHub]({{ site.github }}) ![GitHub Icon](https://img.icons8.com/ios-filled/16/000000/github.png)
 
 ---
 
-#### Programming Language
+##Programming Language
 - Java
 - Python
 - Javascript
@@ -21,6 +12,18 @@
 - C++
 - Assembly
 - Prolog
+
+---
+
+## Technical Skills
+- Office 365
+- Linux
+- Hardware Knowledge
+- Logisim
+- Inviwo
+- ROS (Robotics Operating System)
+
+---
 
 ## Education
 - M.S., Computer Science, Cognitive System | KTH ROYAL INSTITUTE OF TECHNOLOGY (_2021 - Ongoing_)
@@ -57,6 +60,7 @@
 **Preschool Assistant @ Uppsala Kommun(_May 2016 - Sep 2016_)**
 - Supported preschool activities, developing patience and effective communication skills.
 
+---
 
 ## Languages 
 - Swedish
@@ -66,13 +70,7 @@
 - French
 - Turkish (Basic)
 
-#### Technical Skills
-- Office 365
-- Linux
-- Hardware Knowledge
-- Logisim
-- Inviwo
-- ROS (Robotics Operating System)
+---
 
 ## Projects
 ### Leafswap: A Digital Bookshelf for Personalized Book Management
