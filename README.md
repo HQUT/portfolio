@@ -96,7 +96,7 @@ Developed an interactive digital CV using **React**, featuring a comprehensive l
 
 Developed as part of a 4-week team project in the spring of 2023, Proglin is a web application aimed at improving the user’s introduction to programming. Our team of dedicated IT-engineering students took on diverse roles to create a seamless and user-friendly experience. Through weekly sprint demos, we continuously gathered feedback from various KTH student groups, ensuring Proglin’s design and functionality evolved in line with user needs. This collaborative project highlights our commitment to delivering efficient and innovative solutions.
 
-![EEG Band Discovery](/assets/Skärmavbild 2024-10-11 kl. 19.45.18.png)
+![EEG Band Discovery](assets/apple-touch-icon.png)
 
 ### Snake Game: A Basic Arcade Experience on ChipKIT UNO32
 
