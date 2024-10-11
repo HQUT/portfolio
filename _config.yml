@@ -1,4 +1,4 @@
-Tittle: Hiba Qutbuddin Habib
+tittle: Hiba Qutbuddin Habib
 logo: /assets/IMG_1507_round.png
 #remote_theme: pages-themes/minimal@v0.2.0
 theme: jekyll-theme-minimal
@@ -6,3 +6,7 @@ plugins:
 - jekyll-remote-theme
 gem "github-pages", group: :jekyll_plugins
 #description: [A short description of your site's purpose]
+email: your.email@example.com
+phone: "+1234567890"
+linkedin: "https://www.linkedin.com/in/your-linkedin-url"
+github: "https://github.com/your-github-username"
