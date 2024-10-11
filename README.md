@@ -1,11 +1,16 @@
 # M . sc Student In Computer Science
 
+# {{ site.title }}
+
 ![Profile Picture]({{ site.logo }})
+
 ## Contact: 
 - **Email:** [{{ site.email }}](mailto:{{ site.email }}) ![Email Icon](https://img.icons8.com/ios-filled/16/000000/email.png)
 - **Phone:** {{ site.phone }} ![Phone Icon](https://img.icons8.com/ios-filled/16/000000/phone.png)
 - [LinkedIn]({{ site.linkedin }}) ![LinkedIn Icon](https://img.icons8.com/ios-filled/16/000000/linkedin.png)
 - [GitHub]({{ site.github }}) ![GitHub Icon](https://img.icons8.com/ios-filled/16/000000/github.png)
+
+---
 
 #### Programming Language
 - Java
