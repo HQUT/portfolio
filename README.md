@@ -1,6 +1,6 @@
 
 # M . sc Student In Computer Science
-<a href="https://github.com/HQUT/portfolio/blob/main/assets/CV_H.pdf" download>
+<a href="https://drive.google.com/file/d/1JeP8wTDDf3q6c7S615XoHgAKHnX1VL7z/view?usp=sharing" download>
   <button style="padding: 10px 20px; background-color: #0366d6; color: white; border: none; border-radius: 5px; cursor: pointer;">
     Download My CV (PDF)
   </button>
