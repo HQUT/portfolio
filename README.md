@@ -1,5 +1,6 @@
-# M . S C   S T U D E N T   I N   C O M P U T E R   S C I E N C E
+# M . sc Student In Computer Science
 
+![Profile Picture]({{ site.logo }})
 ## Contact: 
 - **Email:** [{{ site.email }}](mailto:{{ site.email }}) ![Email Icon](https://img.icons8.com/ios-filled/16/000000/email.png)
 - **Phone:** {{ site.phone }} ![Phone Icon](https://img.icons8.com/ios-filled/16/000000/phone.png)
