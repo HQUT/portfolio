@@ -1,11 +1,6 @@
 tittle: Hiba Qutbuddin Habib
 logo: /assets/IMG_1507_round.png
 
-description: [email: hibqut1@gmail.com ![Email Icon](https://img.icons8.com/ios-filled/16/000000/email.png)]
-description: [phone: "+46 700374460" ![Phone Icon](https://img.icons8.com/ios-filled/16/000000/phone.png)]
-description: [linkedin: "https://www.linkedin.com/in/hiba-qutbuddin-habib-713734231/" ![LinkedIn Icon](https://img.icons8.com/ios-filled/16/000000/linkedin.png)]
-description: [github: "https://github.com/HQUT?tab=repositories" ![GitHub Icon](https://img.icons8.com/ios-filled/16/000000/github.png)]
-
 #remote_theme: pages-themes/minimal@v0.2.0
 theme: jekyll-theme-minimal
 plugins:
