@@ -32,9 +32,9 @@
 ---
 
 ## Education
-- M.S., Computer Science, Cognitive System | KTH ROYAL INSTITUTE OF TECHNOLOGY (_2021 - Ongoing_)
+- M.S., Computer Science, Cognitive System | KTH ROYAL INSTITUTE OF TECHNOLOGY (_2024 - Ongoing_)
   
-- B.S., Informations Technology | KTH ROYAL INSTITUTE OF TECHNOLOGY (_2020 - 2021_)
+- B.S., Informations Technology | KTH ROYAL INSTITUTE OF TECHNOLOGY (_2021 - 2024_)
   
 - Technical preparatory year | KTH ROYAL INSTITUTE OF TECHNOLOGY (_2020 - 2021_)
   
