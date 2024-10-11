@@ -93,6 +93,8 @@ Designed and implemented a digital bookshelf application using **React** and hos
   <img src="assets/apple-touch-icon.png" alt="Proglin" style="width: 100px;">
 </div>
 
+---
+
 #### Interactive Digital CV: Showcasing Skills and Coursework
 <a href="https://cv-react-411213.firebaseapp.com/education" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" alt="Website Icon" style="vertical-align: middle;">
@@ -105,6 +107,8 @@ Developed an interactive digital CV using **React**, featuring a comprehensive l
 <div style="text-align: center;">
   <img src="assets/cv.png" alt="Proglin" style="width: 100px;">
 </div>
+
+---
 
 #### Proglin: Enhancing the Programming Learning Experience
 <div style="display: flex; gap: 20px;">
@@ -119,11 +123,14 @@ Developed an interactive digital CV using **React**, featuring a comprehensive l
   </a>
 </div>
 
+
 Developed as part of a 4-week team project in the spring of 2023, Proglin is a web application aimed at improving the user’s introduction to programming. Our team of dedicated IT-engineering students took on diverse roles to create a seamless and user-friendly experience. Through weekly sprint demos, we continuously gathered feedback from various KTH student groups, ensuring Proglin’s design and functionality evolved in line with user needs. This collaborative project highlights our commitment to delivering efficient and innovative solutions.
 
 <div style="text-align: center;">
   <img src="assets/proglin.png" alt="Proglin" style="width: 100px;">
 </div>
+
+---
 
 #### Snake Game: A Basic Arcade Experience on ChipKIT UNO32
 
