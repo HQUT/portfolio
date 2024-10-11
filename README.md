@@ -74,23 +74,33 @@
 
 ## Projects
 ### Leafswap: A Digital Bookshelf for Personalized Book Management
-[Website](https://leafswap.web.app/#)
+<a href="https://leafswap.web.app/#" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" alt="Website Icon" style="vertical-align: middle;">
+  Website
+</a>
 
-[Repositories](https://github.com/HQUT/leafswap)
+<a href="https://github.com/HQUT/leafswap)" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Icon" style="vertical-align: middle;">
+  Repositories
+</a>
 
 Designed and implemented a digital bookshelf application using **React** and hosted on **Firebase** . Leafswap provides an intuitive platform for users to search, organize, and manage book collections, offering features such as smart search functionality, customizable collections, and user profile personalization. This project leverages modern web technologies to deliver a seamless, interactive reading experience accessible from anywhere.
 
 <div style="text-align: center;">
-  <img src="/assets/apple-touch-icon.png" alt="EEG Band Discovery" style="width: 200px;">
+  <img src="assets/apple-touch-icon.png" alt="Proglin" style="width: 100px;">
 </div>
 
 ### Interactive Digital CV: Showcasing Skills and Coursework
-[Website](https://cv-react-411213.firebaseapp.com/education)
+<a href="https://cv-react-411213.firebaseapp.com/education" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" alt="Website Icon" style="vertical-align: middle;">
+  Website
+</a>
+
 
 Developed an interactive digital CV using **React**, featuring a comprehensive list of completed courses with direct links for further exploration. This CV is designed to be fully accessible as a shareable link within my e-portfolio, offering potential employers and collaborators an engaging and dynamic way to explore my academic achievements and professional background
 
 <div style="text-align: center;">
-  <img src="/assets/cv.png" alt="Interactive Digital CV" style="width: 200px;">
+  <img src="assets/cv.png" alt="Proglin" style="width: 100px;">
 </div>
 
 ### Proglin: Enhancing the Programming Learning Experience
@@ -107,13 +117,12 @@ Developed an interactive digital CV using **React**, featuring a comprehensive l
 Developed as part of a 4-week team project in the spring of 2023, Proglin is a web application aimed at improving the user’s introduction to programming. Our team of dedicated IT-engineering students took on diverse roles to create a seamless and user-friendly experience. Through weekly sprint demos, we continuously gathered feedback from various KTH student groups, ensuring Proglin’s design and functionality evolved in line with user needs. This collaborative project highlights our commitment to delivering efficient and innovative solutions.
 
 <div style="text-align: center;">
-  <img src="assets/proglin.png" alt="Proglin" style="width: 200px;">
+  <img src="assets/proglin.png" alt="Proglin" style="width: 100px;">
 </div>
 
 ### Snake Game: A Basic Arcade Experience on ChipKIT UNO32
 
 Designed and implemented a basic version of the classic Snake game using **C programming** and translated it into **MIPS assembly** for execution on a **ChipKIT UNO32**. The game runs on an embedded screen with controls for the snake's movement through buttons on the I/O board. The goal is to eat fruit and grow longer while avoiding collisions with walls and the snake’s own body. Extensive testing ensured smooth functionality and gameplay. This project provided hands-on experience in embedded system design and assembly programming.
 
-![EEG Band Discovery]()
 
 
