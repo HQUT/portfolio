@@ -1,6 +1,10 @@
 
 # M . sc Student In Computer Science
-
+<a href="/assets/CV_H.pdf" download>
+  <button style="padding: 10px 20px; background-color: #0366d6; color: white; border: none; border-radius: 5px; cursor: pointer;">
+    Download My CV (PDF)
+  </button>
+</a>
 ---
 
 ## Programming Language
