@@ -2,6 +2,18 @@
 
 
 ---
+<div style="text-align: center;">
+  <img src="{{ site.logo }}" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
+
+  <p>
+    <strong>Contact Information</strong><br>
+    <a href="mailto:{{ site.email }}">Email: {{ site.email }}</a> ![Email Icon](https://img.icons8.com/ios-filled/16/000000/email.png)<br>
+    Phone: {{ site.phone }} ![Phone Icon](https://img.icons8.com/ios-filled/16/000000/phone.png)<br>
+    <a href="{{ site.linkedin }}">LinkedIn</a> ![LinkedIn Icon](https://img.icons8.com/ios-filled/16/000000/linkedin.png)<br>
+    <a href="{{ site.github }}">GitHub</a> ![GitHub Icon](https://img.icons8.com/ios-filled/16/000000/github.png)
+  </p>
+</div>
+
 
 ## Programming Language
 - Java
