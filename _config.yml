@@ -1,5 +1,7 @@
 Tittle: Hiba Qutbuddin Habib
-remote_theme: pages-themes/minimal@v0.2.0
+logo: /assets/IMG_1507_round.png
+#remote_theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-minimal
 plugins:
 - jekyll-remote-theme
 gem "github-pages", group: :jekyll_plugins
