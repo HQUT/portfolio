@@ -80,23 +80,35 @@
 
 Designed and implemented a digital bookshelf application using **React** and hosted on **Firebase** . Leafswap provides an intuitive platform for users to search, organize, and manage book collections, offering features such as smart search functionality, customizable collections, and user profile personalization. This project leverages modern web technologies to deliver a seamless, interactive reading experience accessible from anywhere.
 
-![EEG Band Discovery](/assets/apple-touch-icon.png)
+<div style="text-align: center;">
+  <img src="/assets/apple-touch-icon.png" alt="EEG Band Discovery" style="width: 200px;">
+</div>
 
 ### Interactive Digital CV: Showcasing Skills and Coursework
 [Website](https://cv-react-411213.firebaseapp.com/education)
 
 Developed an interactive digital CV using **React**, featuring a comprehensive list of completed courses with direct links for further exploration. This CV is designed to be fully accessible as a shareable link within my e-portfolio, offering potential employers and collaborators an engaging and dynamic way to explore my academic achievements and professional background
 
-![EEG Band Discovery](/assets/cv.png)
+<div style="text-align: center;">
+  <img src="/assets/cv.png" alt="Interactive Digital CV" style="width: 200px;">
+</div>
 
 ### Proglin: Enhancing the Programming Learning Experience
-[Website](https://proglintech.wixsite.com/proglin)
+<a href="https://proglintech.wixsite.com/proglin" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" alt="Website Icon" style="vertical-align: middle;">
+  Website
+</a>
 
-[Repositories](https://github.com/HQUT/Learn-Programming)
+<a href="https://github.com/HQUT/Learn-Programming" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Icon" style="vertical-align: middle;">
+  Repositories
+</a>
 
 Developed as part of a 4-week team project in the spring of 2023, Proglin is a web application aimed at improving the user’s introduction to programming. Our team of dedicated IT-engineering students took on diverse roles to create a seamless and user-friendly experience. Through weekly sprint demos, we continuously gathered feedback from various KTH student groups, ensuring Proglin’s design and functionality evolved in line with user needs. This collaborative project highlights our commitment to delivering efficient and innovative solutions.
 
-![EEG Band Discovery](assets/apple-touch-icon.png)
+<div style="text-align: center;">
+  <img src="assets/proglin.png" alt="Proglin" style="width: 200px;">
+</div>
 
 ### Snake Game: A Basic Arcade Experience on ChipKIT UNO32
 
