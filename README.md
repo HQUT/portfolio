@@ -87,7 +87,7 @@ Designed and implemented a digital bookshelf application using **React** and hos
 
 Developed an interactive digital CV using **React**, featuring a comprehensive list of completed courses with direct links for further exploration. This CV is designed to be fully accessible as a shareable link within my e-portfolio, offering potential employers and collaborators an engaging and dynamic way to explore my academic achievements and professional background
 
-![EEG Band Discovery]()
+![EEG Band Discovery](/assets/cv.png)
 
 ### Proglin: Enhancing the Programming Learning Experience
 [Website](https://proglintech.wixsite.com/proglin)
