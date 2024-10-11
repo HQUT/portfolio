@@ -1,19 +1,3 @@
-<div style="display: flex;">
-  <div style="flex: 0 0 200px; margin-right: 20px;">
-    <img src="{{ site.logo }}" alt="Profile Picture" style="border-radius: 50%; width: 200px;">
-  </div>
-
-  <div>
-    <h2>{{ site.title }}</h2>
-    <p><strong>Contact Information</strong></p>
-    <p>Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
-    <p>Phone: {{ site.phone }}</p>
-    <p>LinkedIn: <a href="{{ site.linkedin }}">LinkedIn</a></p>
-    <p>GitHub: <a href="{{ site.github }}">GitHub</a></p>
-  </div>
-</div> 
-
----
 
 # M . sc Student In Computer Science
 
