@@ -64,27 +64,29 @@
 
 ## Projects
 ### Leafswap: A Digital Bookshelf for Personalized Book Management
-[Publication](https://leafswap.web.app/#)
-[Publication](https://github.com/HQUT/leafswap)
+[Website](https://leafswap.web.app/#)
+
+[Repositories](https://github.com/HQUT/leafswap)
 
 Designed and implemented a digital bookshelf application using **React** and hosted on **Firebase** . Leafswap provides an intuitive platform for users to search, organize, and manage book collections, offering features such as smart search functionality, customizable collections, and user profile personalization. This project leverages modern web technologies to deliver a seamless, interactive reading experience accessible from anywhere.
 
-![EEG Band Discovery]()
+![EEG Band Discovery](/assets/apple-touch-icon.png)
 
 ### Interactive Digital CV: Showcasing Skills and Coursework
-[Publication](https://cv-react-411213.firebaseapp.com/education)
+[Website](https://cv-react-411213.firebaseapp.com/education)
 
 Developed an interactive digital CV using **React**, featuring a comprehensive list of completed courses with direct links for further exploration. This CV is designed to be fully accessible as a shareable link within my e-portfolio, offering potential employers and collaborators an engaging and dynamic way to explore my academic achievements and professional background
 
 ![EEG Band Discovery]()
 
 ### Proglin: Enhancing the Programming Learning Experience
-[Publication](https://proglintech.wixsite.com/proglin)
-[Publication](https://github.com/HQUT/Learn-Programming)
+[Website](https://proglintech.wixsite.com/proglin)
+
+[Repositories](https://github.com/HQUT/Learn-Programming)
 
 Developed as part of a 4-week team project in the spring of 2023, Proglin is a web application aimed at improving the user’s introduction to programming. Our team of dedicated IT-engineering students took on diverse roles to create a seamless and user-friendly experience. Through weekly sprint demos, we continuously gathered feedback from various KTH student groups, ensuring Proglin’s design and functionality evolved in line with user needs. This collaborative project highlights our commitment to delivering efficient and innovative solutions.
 
-![EEG Band Discovery]()
+![EEG Band Discovery](/assets/Skärmavbild 2024-10-11 kl. 19.45.18.png)
 
 ### Snake Game: A Basic Arcade Experience on ChipKIT UNO32
 
