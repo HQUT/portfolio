@@ -1,14 +1,13 @@
-tittle: Hiba Qutbuddin Habib
-logo: /assets/IMG_1507_round.png
+title: "Hiba Qutbuddin Habib"
+description: "M.Sc. Student in Computer Science at KTH Royal Institute of Technology"
+logo: "/assets/IMG_1507_round.png"  # Sökvägen till din bild
 email: hibqut1@gmail.com
 phone: "+46 700374460"
 linkedin: "https://www.linkedin.com/in/hiba-qutbuddin-habib-713734231/"
 github: "https://github.com/HQUT?tab=repositories"
-#remote_theme: pages-themes/minimal@v0.2.0
-theme: jekyll-theme-minimal
+
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
-gem "github-pages", group: :jekyll_plugins
+  - jekyll-remote-theme
 
-
-#description: [A short description of your site's purpose]
+show_downloads: false
