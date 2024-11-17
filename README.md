@@ -95,7 +95,7 @@ Here I stand now, filled with motivation and an unwavering drive. I’m ready to
   </a>
 </div>
 
-<p>Implemented a predictive inventory model to forecast sales and identify the most and least sold items based on historical sales data. The dataset, consisting of 500,000 rows and 8 columns, was sourced from Kaggle. The project focused on data analysis and processing using PySpark, along with managing large-scale databases such as HDFS and Cassandra. </p>
+Implemented a predictive inventory model to forecast sales and identify the most and least sold items based on historical sales data. The dataset, consisting of 500,000 rows and 8 columns, was sourced from Kaggle. The project focused on **data analysis** and processing using **PySpark**, along with managing **large-scale databases** such as **HDFS** and **Cassandra**.
 
 ---
 
@@ -113,7 +113,7 @@ Here I stand now, filled with motivation and an unwavering drive. I’m ready to
 </div>
 
 
-<p> Designed and implemented a digital bookshelf application using **React** and hosted on **Firebase** . Leafswap provides an intuitive platform for users to search, organize, and manage book collections, offering features such as smart search functionality, customizable collections, and user profile personalization. This project leverages modern web technologies to deliver a seamless, interactive reading experience accessible from anywhere.</p>
+Designed and implemented a digital bookshelf application using **React** and hosted on **Firebase** . Leafswap provides an intuitive platform for users to search, organize, and manage book collections, offering features such as smart search functionality, customizable collections, and user profile personalization. This project leverages modern web technologies to deliver a seamless, interactive reading experience accessible from anywhere.
 
 <div style="text-align: center;">
   <img src="assets/apple-touch-icon.png" alt="Proglin" style="width: 100px;">
@@ -128,7 +128,7 @@ Here I stand now, filled with motivation and an unwavering drive. I’m ready to
 </a>
 
 
-<p>Developed an interactive digital CV using **React**, featuring a comprehensive list of completed courses with direct links for further exploration. This CV is designed to be fully accessible as a shareable link within my e-portfolio, offering potential employers and collaborators an engaging and dynamic way to explore my academic achievements and professional background.</p>
+Developed an interactive digital CV using **React**, featuring a comprehensive list of completed courses with direct links for further exploration. This CV is designed to be fully accessible as a shareable link within my e-portfolio, offering potential employers and collaborators an engaging and dynamic way to explore my academic achievements and professional background.
 
 <div style="text-align: center;">
   <img src="assets/cv.png" alt="Proglin" style="width: 100px;">
