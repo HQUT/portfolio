@@ -2,7 +2,7 @@
 # M . sc Student In Computer Science
 ---
 
-## An Ingenjör med Passion för Teknik och Innovation
+## An Engineer with a Passion for Technology and Innovation
 My name is Hiba, and I’m on an exciting journey as an engineer in information technology, pursuing a master’s degree in Data Science. How did I get here? It’s a question many people ask—and one I’ve reflected on myself throughout my journey. Let me share my story with you, and you’ll see why technology is not just my future but also my passion.
 
 My love for technology began early, as a child. Back then, technology wasn’t as advanced as it is today—we’re talking about TVs, CDs, and the classic Nokia phones with the Snake game. I was fascinated by how it all worked: How could moving images appear on a screen? Where did the pictures come from? How does it all work together? I was curious and fearless—I pressed every button on the remote control and clicked around the internet (which resulted in an impressive number of unused accounts on various websites!).
