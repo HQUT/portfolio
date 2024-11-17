@@ -87,6 +87,16 @@ Here I stand now, filled with motivation and an unwavering drive. I’m ready to
 ---
 
 ## Projects
+#### Predictive Inventory Management for Stores using Data Analysis
+ <a href="https://github.com/HQUT/Data_intensive" target="_blank" style="text-decoration: middle;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Icon" style="vertical-align: middle;">
+    Repositories
+  </a>
+</div>
+
+<p>Implemented a predictive inventory model to forecast sales and identify the most and least sold items based on historical sales data. The dataset, consisting of 500,000 rows and 8 columns, was sourced from Kaggle. The project focused on data analysis and processing using PySpark, along with managing large-scale databases such as HDFS and Cassandra. </p>
+
+
 #### Leafswap: A Digital Bookshelf for Personalized Book Management
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
   <a href="https://leafswap.web.app/#" target="_blank" style="text-decoration: none;">
