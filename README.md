@@ -1,13 +1,20 @@
 
 # M . sc Student In Computer Science
-<a href="https://drive.google.com/file/d/1JeP8wTDDf3q6c7S615XoHgAKHnX1VL7z/view?usp=sharing" download>
-  <button style="padding: 10px 20px; background-color: #0366d6; color: white; border: none; border-radius: 5px; cursor: pointer;">
-    Download My CV (PDF)
-  </button>
-</a>
-
-
 ---
+
+## An Ingenjör med Passion för Teknik och Innovation
+My name is Hiba, and I’m on an exciting journey as an engineer in information technology, pursuing a master’s degree in Data Science. How did I get here? It’s a question many people ask—and one I’ve reflected on myself throughout my journey. Let me share my story with you, and you’ll see why technology is not just my future but also my passion.
+
+My love for technology began early, as a child. Back then, technology wasn’t as advanced as it is today—we’re talking about TVs, CDs, and the classic Nokia phones with the Snake game. I was fascinated by how it all worked: How could moving images appear on a screen? Where did the pictures come from? How does it all work together? I was curious and fearless—I pressed every button on the remote control and clicked around the internet (which resulted in an impressive number of unused accounts on various websites!).
+
+Then, a major turning point in my life happened: at the age of 14, I moved to Sweden. It was a completely new world for me, and I had to start over. But this is where my real journey began. I became fluent in Swedish within just eight months, but I didn’t stop there. I picked up Kurdish to communicate with family and learned Turkish by binge-watching TV series. It was then I realized I had a knack for learning languages quickly—and thought: If I can learn human languages, I can surely learn computer languages too!
+
+In high school and during my technical preparatory year, I truly found my direction. I discovered a love for mathematics—hours would fly by as I solved problems. This was when my fascination with practical and logical challenges took off. I wanted to understand the world, solve problems, and explore the unknown.
+
+It became clear that technology wasn’t just a hobby for me—it was my passion. Today, as I dive deeper into subjects like machine learning, robotics, and AI, I know I’ve found my calling. My goal is to contribute to technological advancements, create solutions that change the world, and continuously push the boundaries of what’s possible.
+
+Here I stand now, filled with motivation and an unwavering drive. I’m ready to take on challenges, grow as an engineer, and contribute to the future of technology. Want to join me on this journey? Let’s create something amazing together!
+
 
 ## Programming Language
 - Java
@@ -18,6 +25,7 @@
 - C++
 - Assembly
 - Prolog
+- R
 
 ---
 
@@ -32,7 +40,7 @@
 ---
 
 ## Education
-- M.S., Computer Science, Cognitive System | KTH ROYAL INSTITUTE OF TECHNOLOGY (_2024 - Ongoing_)
+- M.S., Computer Science, Data Science | KTH ROYAL INSTITUTE OF TECHNOLOGY (_2024 - Ongoing_)
   
 - B.S., Informations Technology | KTH ROYAL INSTITUTE OF TECHNOLOGY (_2021 - 2024_)
   
