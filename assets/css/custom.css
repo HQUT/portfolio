@@ -210,7 +210,7 @@ ul li {
   content: "✔";
   position: absolute;
   left: 0;
-  color: #28a745;
+  color: black;
   font-size: 18px;
   font-weight: bold;
 }
@@ -240,5 +240,5 @@ ul li {
 
 .education-item span {
   font-style: italic;
-  color: #218838;
+  color: #007BFF;
 }
