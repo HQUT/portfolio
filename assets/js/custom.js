@@ -7,3 +7,8 @@ function toggleDarkMode() {
 function toggleContact() {
   document.getElementById("contact-info").classList.toggle("show");
 }
+
+// Toggle Mobile Menu
+function toggleMenu() {
+  document.querySelector('.nav-links').classList.toggle('active');
+}
