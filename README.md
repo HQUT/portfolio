@@ -96,9 +96,9 @@ Here I stand now, filled with motivation and an unwavering drive. I’m ready to
     Repositories
   </a>
 
-  <a href="path_to_your_report.pdf" download target="_blank" style="text-decoration: none;">
+  <a href="assests/Social Robotics Paper - Hiba Qutbuddin Habib.pdf" download target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/ios-filled/50/000000/pdf.png" alt="PDF Icon" style="vertical-align: middle;">
-    Download Report
+    Report
   </a>
 </div>
 
@@ -107,6 +107,8 @@ Here I stand now, filled with motivation and an unwavering drive. I’m ready to
 <div style="text-align: center;">
   <img src="assets/FURHAT.png" alt="Proglin" style="width: 100px;">
 </div>
+
+---
 
 #### Predictive Inventory Management for Stores using Data Analysis
 <div style="display: center; gap: 20px; margin-bottom: 20px;">
