@@ -23,58 +23,56 @@
   <body>
     <!-- Navbar -->
     <nav class="navbar">
-  <ul>
-    <li class="dropdown">
-      <a href="#">Languages & Skills ▼</a>
-      <ul class="dropdown-content">
-         <li><a href="#programming-language">Technical Skills</a></li>
-         <li><a href="#technical-skills">Education</a></li>
-     </ul>
-    </li>
-    <li><a href="#education">Education</a></li>
-    <li><a href="#work-experience">Experience</a></li>
-    <li><a href="#projects">Projects</a></li>
-    
-  </ul>
-</nav>
+      <ul class="nav-links">
+        <li><a href="#about">About</a></li>
+        <li class="dropdown">
+          <a href="#">Languages & Skills ▼</a>
+          <ul class="dropdown-content">
+             <li><a href="#programming-language">Programming</a></li>
+             <li><a href="#technical-skills">Technical Skills</a></li>
+          </ul>
+        </li>
+        <li><a href="#education">Education</a></li>
+        <li><a href="#work-experience">Experience</a></li>
+        <li><a href="#projects">Projects</a></li>
+      </ul>
+    </nav>
 
-    <div class="wrapper">
-      <header>
+    <!-- Main Layout -->
+    <div class="main-container">
+      <!-- Left Side: Profile & Contact Info -->
+      <div class="profile-container">
         {% if site.logo %}
-          <img src="{{ site.logo | relative_url }}" alt="Logo" class="profile-img" />
+          <img src="{{ site.logo | relative_url }}" alt="Profile Image" class="profile-img" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <div class="contact-container">
+          <p><strong>Contact Information</strong></p>
+          <p>
+            <img src="https://img.icons8.com/ios-filled/16/000000/email.png" alt="Email Icon">
+            Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+          </p>
+          <p>
+            <img src="https://img.icons8.com/ios-filled/16/000000/phone.png" alt="Phone Icon">
+            Phone: {{ site.phone }}
+          </p>
+          <p>
+            <img src="https://img.icons8.com/ios-filled/16/000000/linkedin.png" alt="LinkedIn Icon">
+            <a href="{{ site.linkedin }}">LinkedIn</a>
+          </p>
+          <p>
+            <img src="https://img.icons8.com/ios-filled/16/000000/github.png" alt="GitHub Icon">
+            <a href="{{ site.github }}">GitHub</a>
+          </p>
+        </div>
+      </div>
 
-        <!-- Contact Info (Always Visible) -->
-<div class="contact-container">
-  <p><strong>Contact Information</strong></p>
-  <p>
-    <img src="https://img.icons8.com/ios-filled/16/000000/email.png" alt="Email Icon">
-    Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-  </p>
-  <p>
-    <img src="https://img.icons8.com/ios-filled/16/000000/phone.png" alt="Phone Icon">
-    Phone: {{ site.phone }}
-  </p>
-  <p>
-    <img src="https://img.icons8.com/ios-filled/16/000000/linkedin.png" alt="LinkedIn Icon">
-    <a href="{{ site.linkedin }}">LinkedIn</a>
-  </p>
-  <p>
-    <img src="https://img.icons8.com/ios-filled/16/000000/github.png" alt="GitHub Icon">
-    <a href="{{ site.github }}">GitHub</a>
-  </p>
-</div>
-
-
-      <section id="about">
-        {{ content }}
-      </section>
-
-      <footer>
-        <p>Hosted on GitHub Pages — Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
-      </footer>
+      <!-- Right Side: Main Content -->
+      <div class="content-container">
+        <section id="about">
+          {{ content }}
+        </section>
+      </div>
     </div>
 
     <!-- JavaScript for interactivity -->
