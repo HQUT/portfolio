@@ -181,17 +181,18 @@ Implemented a predictive inventory model to forecast sales and identify the most
 ---
 
 #### Leafswap: A Digital Bookshelf for Personalized Book Management
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <a href="https://leafswap.web.app/#" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" alt="Website Icon" style="vertical-align: middle;">
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+  <a href="https://leafswap.web.app/#" target="_blank" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" alt="Website Icon">
     Website
   </a>
 
-  <a href="https://github.com/HQUT/leafswap" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Icon" style="vertical-align: middle;">
+  <a href="https://github.com/HQUT/leafswap" target="_blank" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Icon">
     Repositories
   </a>
 </div>
+
 
 
 Designed and implemented a digital bookshelf application using **React** and hosted on **Firebase** . Leafswap provides an intuitive platform for users to search, organize, and manage book collections, offering features such as smart search functionality, customizable collections, and user profile personalization. This project leverages modern web technologies to deliver a seamless, interactive reading experience accessible from anywhere.
@@ -218,14 +219,14 @@ Developed an interactive digital CV using **React**, featuring a comprehensive l
 ---
 
 #### Proglin: Enhancing the Programming Learning Experience
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <a href="https://proglintech.wixsite.com/proglin" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" alt="Website Icon" style="vertical-align: middle;">
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+  <a href="https://proglintech.wixsite.com/proglin" target="_blank" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" alt="Website Icon">
     Website
   </a>
 
-  <a href="https://github.com/HQUT/Learn-Programming" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Icon" style="vertical-align: middle;">
+  <a href="https://github.com/HQUT/Learn-Programming" target="_blank" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Icon">
     Repositories
   </a>
 </div>
