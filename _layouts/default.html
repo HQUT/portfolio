@@ -24,7 +24,6 @@
     <!-- Navbar -->
     <nav class="navbar">
   <ul>
-    <li><a href="#an-engineer-with-a-Passion-for-technology-and-innovation">About</a></li>
     <li class="dropdown">
       <a href="#">Languages & Skills ▼</a>
       <ul class="dropdown-content">
@@ -47,30 +46,27 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <!-- Contact Section -->
-        <div class="contact-container">
-          <button class="contact-btn" onclick="toggleContact()">Show Contact Info</button>
-          <div class="contact-info" id="contact-info">
-            <p><strong>Contact Information</strong></p>
-            <p>
-              <img src="https://img.icons8.com/ios-filled/16/000000/email.png" alt="Email Icon">
-              Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-            </p>
-            <p>
-              <img src="https://img.icons8.com/ios-filled/16/000000/phone.png" alt="Phone Icon">
-              Phone: {{ site.phone }}
-            </p>
-            <p>
-              <img src="https://img.icons8.com/ios-filled/16/000000/linkedin.png" alt="LinkedIn Icon">
-              <a href="{{ site.linkedin }}">LinkedIn</a>
-            </p>
-            <p>
-              <img src="https://img.icons8.com/ios-filled/16/000000/github.png" alt="GitHub Icon">
-              <a href="{{ site.github }}">GitHub</a>
-            </p>
-          </div>
-        </div>
-      </header>
+        <!-- Contact Info (Always Visible) -->
+<div class="contact-container">
+  <p><strong>Contact Information</strong></p>
+  <p>
+    <img src="https://img.icons8.com/ios-filled/16/000000/email.png" alt="Email Icon">
+    Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+  </p>
+  <p>
+    <img src="https://img.icons8.com/ios-filled/16/000000/phone.png" alt="Phone Icon">
+    Phone: {{ site.phone }}
+  </p>
+  <p>
+    <img src="https://img.icons8.com/ios-filled/16/000000/linkedin.png" alt="LinkedIn Icon">
+    <a href="{{ site.linkedin }}">LinkedIn</a>
+  </p>
+  <p>
+    <img src="https://img.icons8.com/ios-filled/16/000000/github.png" alt="GitHub Icon">
+    <a href="{{ site.github }}">GitHub</a>
+  </p>
+</div>
+
 
       <section id="about">
         {{ content }}
