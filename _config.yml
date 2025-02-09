@@ -10,3 +10,9 @@ plugins:
   - jekyll-remote-theme
 
 show_downloads: false
+
+# Include custom CSS & JS
+include: 
+  - assets/css/custom.css
+  - assets/js/custom.js
+
