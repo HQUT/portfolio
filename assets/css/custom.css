@@ -14,6 +14,7 @@ body {
   left: 0;
   width: 100%;
   background: white;
+  color: black;
   padding: 15px 20px;
   z-index: 1000;
   display: flex;
@@ -31,19 +32,14 @@ body {
   margin: 0;
 }
 
-.nav-links li {
-  position: relative;
-}
-
 .nav-links li a {
   text-decoration: none;
   font-weight: bold;
-  color: #007BFF;
-  background: #f0f0f0;
+  color: #007BFF; /* Blå text */
+  background: #f0f0f0; /* Grå bakgrund */
   padding: 10px 15px;
   border-radius: 5px;
   transition: 0.3s;
-  display: inline-block;
 }
 
 .nav-links li a:hover {
@@ -51,131 +47,19 @@ body {
   color: white;
 }
 
-/* Dropdown */
-.dropdown-content {
-  display: none;
-  position: absolute;
-  top: 100%;
-  left: 0;
-  background: white;
-  min-width: 160px;
-  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-  z-index: 1001;
-  border-radius: 5px;
-  padding: 10px 0;
-}
-
-.dropdown-content a {
-  display: block;
-  padding: 10px 15px;
-  text-decoration: none;
-  color: black;
-  transition: 0.3s;
-}
-
-.dropdown-content a:hover {
-  background: #007BFF;
-  color: white;
-}
-
-.nav-links li:hover .dropdown-content {
-  display: block;
-}
-
-/* Main Layout */
+/* Main Layout: Move everything down */
 .main-container {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 100px;
+  margin-top: 150px; /* Push everything down */
   padding: 20px;
   max-width: 900px;
   margin-left: auto;
   margin-right: auto;
 }
 
-/* Work Experience */
-.work-experience {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
-}
-
-/* Jobbtitlar */
-.work-experience h3 {
-  font-size: 22px;
-  font-weight: bold;
-  color: #007BFF;
-  margin-top: 25px;
-  text-align: center;
-}
-
-/* Datum under jobbtiteln */
-.work-experience p {
-  font-style: italic;
-  color: #666;
-  font-size: 14px;
-  text-align: center;
-}
-
-/* Lista för jobbbeskrivningar */
-.work-experience ul {
-  padding-left: 20px;
-  list-style-type: none;
-  text-align: center;
-  max-width: 600px;
-  margin: 0 auto;
-}
-
-.work-experience ul li {
-  margin-bottom: 8px;
-  font-weight: bold;
-  position: relative;
-  padding-left: 25px;
-  background: none !important;
-}
-
-/* Anpassad punkt för jobbansvar */
-.work-experience ul li::before {
-  content: "✔";
-  position: absolute;
-  left: 0;
-  color: #006400;
-  font-size: 18px;
-  font-weight: bold;
-}
-
-/* Education Section */
-.education-container {
-  display: flex;
-  flex-direction: column;
-  gap: 15px;
-  max-width: 800px;
-  margin: 40px auto;
-}
-
-.education-item {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background: white;
-  padding: 15px 20px;
-  border-radius: 8px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
-
-.education-item strong {
-  font-size: 18px;
-  color: black;
-}
-
-.education-item span {
-  font-style: italic;
-  color: #007BFF;
-  font-size: 16px;
-}
-
-/* Profilbild */
+/* Profile Image */
 .profile-container {
   text-align: center;
   margin-bottom: 20px;
@@ -199,7 +83,7 @@ body {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   width: 100%;
   max-width: 400px;
-  margin-bottom: 40px;
+  margin-bottom: 40px; /* Added space below contact info */
 }
 
 .contact-container p {
@@ -217,6 +101,13 @@ body {
   text-decoration: underline;
 }
 
+/* Content Centered */
+.content-container {
+  text-align: center;
+  max-width: 700px;
+  margin-top: 20px;
+}
+
 /* Footer */
 footer {
   text-align: center;
@@ -224,4 +115,130 @@ footer {
   background: #222;
   color: white;
   margin-top: 20px;
+}
+
+/* Fix: Dropdown menu should close when clicking outside */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background: white;
+  min-width: 160px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  z-index: 1001;
+  border-radius: 5px;
+  padding: 10px 0;
+}
+
+.dropdown-content.show {
+  display: block;
+}
+
+/* Fix: Ta bort punkter från listor */
+ul {
+  list-style-type: none; /* Tar bort punkter */
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+}
+
+ul li {
+  background: #f0f0f0;
+  padding: 8px 12px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+/* Improves spacing for skills section */
+.skills-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.skills-container ul {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+/* Work Experience Styling */
+.work-experience {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Titel på varje jobb */
+.work-experience h3 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #007BFF;
+  margin-top: 15px;
+  text-align: center;
+}
+
+/* Datum under jobbtiteln */
+.work-experience p {
+  font-style: italic;
+  color: #666;
+  font-size: 14px;
+  text-align: center;
+}
+
+/* Lista för jobbbeskrivningar i Work Experience */
+.work-experience ul {
+  padding-left: 0;
+  list-style-type: none;
+  text-align: center;
+}
+
+.work-experience ul li {
+  margin-bottom: 8px;
+  font-weight: bold;
+  background: none; /* Tar bort den grå bakgrunden */
+  padding: 0; /* Tar bort eventuell padding */
+  border-radius: 0; /* Tar bort eventuella hörnavrundningar */
+}
+
+
+/* Anpassad punkt för jobbansvar */
+.work-experience ul.experience-list li::before {
+  content: "✔";
+  position: absolute;
+  left: 0;
+  color: #007BFF;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/* Education Section Styling */
+.education-container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+.education-item {
+  display: flex;
+  justify-content: space-between;
+  background: #f9f9f9;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.education-item strong {
+  font-size: 16px;
+  color: black;
+}
+
+.education-item span {
+  font-style: italic;
+  color: #007BFF;
 }
