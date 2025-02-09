@@ -41,14 +41,31 @@ Here I stand now, filled with motivation and an unwavering drive. I’m ready to
 
 ---
 
-## Education
-- M.S., Computer Science, Data Science | KTH ROYAL INSTITUTE OF TECHNOLOGY (_2024 - Ongoing_)
-  
-- B.S., Informations Technology | KTH ROYAL INSTITUTE OF TECHNOLOGY (_2021 - 2024_)
-  
-- Technical preparatory year | KTH ROYAL INSTITUTE OF TECHNOLOGY (_2020 - 2021_)
-  
-- HIGH SCHOOL, Social Sciences, behavioral science | KATEDRALSKOLA (_2016 - 2019_)
+<!-- Education Section -->
+<div class="education-container">
+  <h2>Education</h2>
+
+  <div class="education-item">
+    <strong>M.S., Computer Science, Data Science</strong>
+    <span>KTH ROYAL INSTITUTE OF TECHNOLOGY (2024 - Ongoing)</span>
+  </div>
+
+  <div class="education-item">
+    <strong>B.S., Informations Technology</strong>
+    <span>KTH ROYAL INSTITUTE OF TECHNOLOGY (2021 - 2024)</span>
+  </div>
+
+  <div class="education-item">
+    <strong>Technical preparatory year</strong>
+    <span>KTH ROYAL INSTITUTE OF TECHNOLOGY (2020 - 2021)</span>
+  </div>
+
+  <div class="education-item">
+    <strong>HIGH SCHOOL, Social Sciences, behavioral science</strong>
+    <span>KATEDRALSKOLA (2016 - 2019)</span>
+  </div>
+</div>
+
 
 <!-- Work Experience Section -->
 <div class="work-experience">
