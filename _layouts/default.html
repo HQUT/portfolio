@@ -23,17 +23,21 @@
   <body>
     <!-- Navbar -->
     <nav class="navbar">
-      <div class="logo">
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-      </div>
-      <button class="menu-toggle" onclick="toggleMenu()">☰</button>
-      <ul class="nav-links">
-        <li><a href="#about">About</a></li>
-        <li><a href="#contact">Contact</a></li>
-        <li><a href="{{ site.github.repository_url }}">GitHub</a></li>
-        <li><button class="dark-mode-toggle" onclick="toggleDarkMode()">🌙</button></li>
-      </ul>
-    </nav>
+  <ul>
+    <li><a href="#an-engineer-with-a-Passion-for-technology-and-innovation">About</a></li>
+    <li class="dropdown">
+      <a href="#">Languages & Skills ▼</a>
+      <ul class="dropdown-content">
+         <li><a href="#programming-language">Technical Skills</a></li>
+         <li><a href="#technical-skills">Education</a></li>
+     </ul>
+    </li>
+    <li><a href="#education">Education</a></li>
+    <li><a href="#work-experience">Experience</a></li>
+    <li><a href="#projects">Projects</a></li>
+    
+  </ul>
+</nav>
 
     <div class="wrapper">
       <header>
