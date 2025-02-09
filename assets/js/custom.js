@@ -43,3 +43,19 @@ document.addEventListener("click", function(event) {
     dropdownMenu.classList.remove("show");
   }
 });
+
+document.addEventListener("DOMContentLoaded", function() {
+    document.querySelectorAll('.nav-links a').forEach(anchor => {
+        anchor.addEventListener('click', function(event) {
+            event.preventDefault();
+            
+            let targetId = this.getAttribute('href').substring(1); // Tar bort #
+            let target = document.getElementById(targetId) || document.querySelector('.' + targetId);
+
+            if (target) {
+                target.scrollIntoView({ behavior: 'smooth' });
+            }
+        });
+    });
+});
+
