@@ -28,8 +28,8 @@
         <li class="dropdown">
           <a href="#">Languages & Skills ▼</a>
           <ul class="dropdown-content">
-             <li><a href="#programming-language">Programming</a></li>
-             <li><a href="#technical-skills">Technical Skills</a></li>
+             <li><a href="#programming-language">Programming & Skill</a></li>
+             <li><a href="#languages">Languages</a></li>
           </ul>
         </li>
         <li><a href="#education">Education</a></li>
@@ -40,7 +40,7 @@
 
     <!-- Main Layout -->
     <div class="main-container">
-      <!-- Left Side: Profile & Contact Info -->
+      <!-- Profile & Contact Info Centered -->
       <div class="profile-container">
         {% if site.logo %}
           <img src="{{ site.logo | relative_url }}" alt="Profile Image" class="profile-img" />
@@ -67,7 +67,7 @@
         </div>
       </div>
 
-      <!-- Right Side: Main Content -->
+      <!-- Content (Centered Below Contact Info) -->
       <div class="content-container">
         <section id="about">
           {{ content }}
