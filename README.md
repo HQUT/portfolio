@@ -50,74 +50,69 @@ Here I stand now, filled with motivation and an unwavering drive. I’m ready to
   
 - HIGH SCHOOL, Social Sciences, behavioral science | KATEDRALSKOLA (_2016 - 2019_)
 
-## Work Experience
+<!-- Work Experience Section -->
 <div class="work-experience">
+  <h2>Work Experience</h2>
 
-### Study Coach @ KTH Royal Institute of Technology  
-📅 _September 2024 - December 2024_
+  <div>
+    <h3>🏫 Study Coach @ KTH Royal Institute of Technology</h3>
+    <p>📅 September 2024 - December 2024</p>
+    <ul>
+      <li>Guided engineering students, sharing effective study techniques and promoting academic success.</li>
+      <li>Utilized mentorship to support others' learning processes, showcasing leadership and interpersonal skills.</li>
+    </ul>
+  </div>
 
-<ul class="experience-list">
-  <li>✔ Guided engineering students, sharing effective study techniques and promoting academic success.</li>
-  <li>✔ Utilized mentorship to support others' learning processes, showcasing leadership and interpersonal skills.</li>
-</ul>
+  <div>
+    <h3>☕ Shift Leader @ Espresso House AB</h3>
+    <p>📅 Mars 2022 - Present</p>
+    <ul>
+      <li>Led and managed shift operations, ensuring smooth service delivery and high customer satisfaction.</li>
+      <li>Trained and mentored new staff, fostering teamwork and collaboration.</li>
+      <li>Utilized problem-solving skills to address customer and operational issues promptly.</li>
+    </ul>
+  </div>
 
----
+  <div>
+    <h3>📚 Tutor @ Studybuddy</h3>
+    <p>📅 September 2021 - January 2025</p>
+    <ul>
+      <li>Developed individualized learning strategies, demonstrating analytical thinking and adaptability.</li>
+      <li>Strengthened communication skills through teaching complex subjects.</li>
+    </ul>
+  </div>
 
-### Shift Leader @ Espresso House AB  
-📅 _Mars 2022 - Present_
+  <div>
+    <h3>🍔 Employee @ Max Hamburgare AB</h3>
+    <p>📅 Jan 2018 - Jan 2020</p>
+    <ul>
+      <li>Provided excellent service in a dynamic environment, honing multitasking and stress management skills.</li>
+    </ul>
+  </div>
 
-<ul class="experience-list">
-  <li>✔ Led and managed shift operations, ensuring smooth service delivery and high customer satisfaction.</li>
-  <li>✔ Trained and mentored new staff, fostering teamwork and collaboration.</li>
-  <li>✔ Utilized problem-solving skills to address customer and operational issues promptly.</li>
-</ul>
+  <div>
+    <h3>🏡 Property Maintenance @ Uppsala Kommun</h3>
+    <p>📅 Jul 2017 - Aug 2017</p>
+    <ul>
+      <li>Contributed to maintenance tasks, demonstrating reliability and attention to detail.</li>
+    </ul>
+  </div>
 
----
+  <div>
+    <h3>🍓 Strawberry Seller @ Bärprins AB</h3>
+    <p>📅 Jul 2016 - Sep 2016</p>
+    <ul>
+      <li>Managed sales and customer interactions, showcasing strong communication and customer service skills.</li>
+    </ul>
+  </div>
 
-### Tutor @ Studybuddy  
-📅 _September 2021 - January 2025_
-
-<ul class="experience-list">
-  <li>✔ Developed individualized learning strategies, demonstrating analytical thinking and adaptability.</li>
-  <li>✔ Strengthened communication skills through teaching complex subjects.</li>
-</ul>
-
----
-
-### Employee @ Max Hamburgare AB  
-📅 _Jan 2018 - Jan 2020_
-
-<ul class="experience-list">
-  <li>✔ Provided excellent service in a dynamic environment, honing multitasking and stress management skills.</li>
-</ul>
-
----
-
-### Property Maintenance @ Uppsala Kommun  
-📅 _Jul 2017 - Aug 2017_
-
-<ul class="experience-list">
-  <li>✔ Contributed to maintenance tasks, demonstrating reliability and attention to detail.</li>
-</ul>
-
----
-
-### Strawberry Seller @ Bärprins AB  
-📅 _Jul 2016 - Sep 2016_
-
-<ul class="experience-list">
-  <li>✔ Managed sales and customer interactions, showcasing strong communication and customer service skills.</li>
-</ul>
-
----
-
-### Preschool Assistant @ Uppsala Kommun  
-📅 _May 2016 - Sep 2016_
-
-<ul class="experience-list">
-  <li>✔ Supported preschool activities, developing patience and effective communication skills.</li>
-</ul>
-
+  <div>
+    <h3>👶 Preschool Assistant @ Uppsala Kommun</h3>
+    <p>📅 May 2016 - Sep 2016</p>
+    <ul>
+      <li>Supported preschool activities, developing patience and effective communication skills.</li>
+    </ul>
+  </div>
 </div>
 
 
