@@ -52,11 +52,11 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 150px; /* Push everything down */
+  width: 95%; /* Öka bredden från 90% till 95% */
+  max-width: 1400px; 
+  margin-top: 150px;/* Öka maxbredden från 1100px till 1400px */
+  margin: 0 auto;
   padding: 20px;
-  max-width: 1500px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 /* Profile Image */
@@ -103,7 +103,7 @@ body {
 
 /* Content Centered */
 .content-container {
-  text-align: center;
+  text-align: justify;
   max-width: 1200px;
   margin-top: 20px;
 }
