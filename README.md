@@ -50,31 +50,63 @@ Here I stand now, filled with motivation and an unwavering drive. I’m ready to
   
 - HIGH SCHOOL, Social Sciences, behavioral science | KATEDRALSKOLA (_2016 - 2019_)
 
+<div class="work-experience">
+
 ## Work Experience
-**Study Coach @ KTH Royal Institute of Technology (_September 2024 - December 2024_)**
-- Guided engineering students, sharing effective study techniques and promoting academic success.  
-- Utilized mentorship to support others' learning processes, showcasing leadership and interpersonal skills.
 
-**Shift Leader @ Espresso House AB (_Mars 2022 - Present_)**
-- Led and managed shift operations, ensuring smooth service delivery and high customer satisfaction.
-- Trained and mentored new staff, fostering teamwork and collaboration.
-- Utilized problem-solving skills to address customer and operational issues promptly.
+### 🏫 Study Coach @ KTH Royal Institute of Technology  
+📅 _September 2024 - December 2024_
 
-**Tutor @ Studybuddy (_September 2021 - January 2025_)**
-- Developed individualized learning strategies, demonstrating analytical thinking and adaptability.
-- Strengthened communication skills through teaching complex subjects.
+- 🎯 Guided engineering students, sharing effective study techniques and promoting academic success.  
+- 🤝 Utilized mentorship to support others' learning processes, showcasing leadership and interpersonal skills.
 
-**Employee @ Max Hamburgare AB (_Jan 2018 - Jan 2020_)**
-- Provided excellent service in a dynamic environment, honing multitasking and stress management skills.
+---
 
-**Property Maintenancee @ Uppsala Kommun (_Jul 2017 - Aug 2017_)**
-- Contributed to maintenance tasks, demonstrating reliability and attention to detail.
+### ☕ Shift Leader @ Espresso House AB  
+📅 _Mars 2022 - Present_
 
-**Strawberry Seller @ Bärprins AB (_Jul 2016 - Sep 2016_)**
-- Managed sales and customer interactions, showcasing strong communication and customer service skills.
+- ✅ Led and managed shift operations, ensuring smooth service delivery and high customer satisfaction.  
+- 👨‍🏫 Trained and mentored new staff, fostering teamwork and collaboration.  
+- 🔍 Utilized problem-solving skills to address customer and operational issues promptly.  
 
-**Preschool Assistant @ Uppsala Kommun(_May 2016 - Sep 2016_)**
-- Supported preschool activities, developing patience and effective communication skills.
+---
+
+### 📚 Tutor @ Studybuddy  
+📅 _September 2021 - January 2025_
+
+- 🎓 Developed individualized learning strategies, demonstrating analytical thinking and adaptability.  
+- 🗣️ Strengthened communication skills through teaching complex subjects.  
+
+---
+
+### 🍔 Employee @ Max Hamburgare AB  
+📅 _Jan 2018 - Jan 2020_
+
+- 🍽️ Provided excellent service in a dynamic environment, honing multitasking and stress management skills.  
+
+---
+
+### 🏡 Property Maintenance @ Uppsala Kommun  
+📅 _Jul 2017 - Aug 2017_
+
+- 🛠️ Contributed to maintenance tasks, demonstrating reliability and attention to detail.  
+
+---
+
+### 🍓 Strawberry Seller @ Bärprins AB  
+📅 _Jul 2016 - Sep 2016_
+
+- 🏷️ Managed sales and customer interactions, showcasing strong communication and customer service skills.  
+
+---
+
+### 👶 Preschool Assistant @ Uppsala Kommun  
+📅 _May 2016 - Sep 2016_
+
+- 👩‍🏫 Supported preschool activities, developing patience and effective communication skills.  
+
+</div>
+
 
 ---
 
