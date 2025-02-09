@@ -31,3 +31,15 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     }
   });
 });
+
+// Toggle Dropdown Menu
+document.addEventListener("click", function(event) {
+  let dropdown = document.querySelector(".dropdown");
+  let dropdownMenu = document.querySelector(".dropdown-content");
+
+  if (dropdown.contains(event.target)) {
+    dropdownMenu.classList.toggle("show");
+  } else {
+    dropdownMenu.classList.remove("show");
+  }
+});
