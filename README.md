@@ -148,7 +148,7 @@ Here I stand now, filled with motivation and an unwavering drive. I’m ready to
 
 ## Projects
 #### Learning Through Confusion in Human-Robot Interaction: A Pilot Study with Furhat Robot
-<div style="display: center; gap: 20px; margin-bottom: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
  <a href="https://github.com/andreasnaoum/Learning-Through-Confusion-HRI" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Icon" style="vertical-align: middle;">
     Repositories
@@ -160,6 +160,7 @@ Here I stand now, filled with motivation and an unwavering drive. I’m ready to
   </a>
 </div>
 
+
 **Conducted a pilot study on learning through confusion in Human-Robot Interaction using the Furhat robot.** Designed and implemented an experimental framework to explore how different levels of confusion (no confusion, productive confusion, and unproductive confusion) impact learning and engagement. Participants interacted with the robot in an AI tutoring session where confusion was strategically induced through varying levels of information. Data collection included self-reported feedback, observer ratings, and performance metrics. The study demonstrated that **productively managed confusion enhances engagement and learning**, contributing insights to the development of adaptive educational robots.
 
 <div style="text-align: center;">
@@ -169,12 +170,13 @@ Here I stand now, filled with motivation and an unwavering drive. I’m ready to
 ---
 
 #### Predictive Inventory Management for Stores using Data Analysis
-<div style="display: center; gap: 20px; margin-bottom: 20px;">
- <a href="https://github.com/HQUT/Data_intensive" target="_blank" style="text-decoration: none;">
+<div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
+  <a href="https://github.com/HQUT/Data_intensive" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Icon" style="vertical-align: middle;">
     Repositories
   </a>
 </div>
+
 
 Implemented a predictive inventory model to forecast sales and identify the most and least sold items based on historical sales data. The dataset, consisting of 500,000 rows and 8 columns, was sourced from Kaggle. The project focused on **data analysis** and processing using **PySpark**, along with managing **large-scale databases** such as **HDFS** and **Cassandra**.
 
@@ -204,10 +206,13 @@ Designed and implemented a digital bookshelf application using **React** and hos
 ---
 
 #### Interactive Digital CV: Showcasing Skills and Coursework
-<a href="https://cv-react-411213.firebaseapp.com/education" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" alt="Website Icon" style="vertical-align: middle;">
-  Website
-</a>
+<div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
+  <a href="https://cv-react-411213.firebaseapp.com/education" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" alt="Website Icon" style="vertical-align: middle;">
+    Website
+  </a>
+</div>
+
 
 
 Developed an interactive digital CV using **React**, featuring a comprehensive list of completed courses with direct links for further exploration. This CV is designed to be fully accessible as a shareable link within my e-portfolio, offering potential employers and collaborators an engaging and dynamic way to explore my academic achievements and professional background.
