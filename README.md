@@ -42,7 +42,7 @@ Here I stand now, filled with motivation and an unwavering drive. I’m ready to
 ---
 
 <!-- Education Section -->
-<div class="education-container">
+<div class="education-container" id="education">
   <h2>Education</h2>
 
   <div class="education-item">
@@ -68,7 +68,7 @@ Here I stand now, filled with motivation and an unwavering drive. I’m ready to
 
 
 <!-- Work Experience Section -->
-<div class="work-experience">
+<div class="work-experience" id="work-experience">
   <h2>Work Experience</h2>
 
   <div>
