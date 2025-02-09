@@ -171,6 +171,46 @@ ul li {
   margin: 0 auto;
   padding: 20px;
 }
+/* Titel på varje jobb */
+.work-experience h3 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #007BFF;
+  margin-top: 15px;
+  text-align: justify;
+}
+
+/* Datum under jobbtiteln */
+.work-experience p {
+  font-style: italic;
+  color: #555;
+  font-size: 12px;
+  text-align: justify;
+}
+
+/* Lista för jobbbeskrivningar i Work Experience */
+.work-experience ul {
+  padding-left: 0;
+  list-style-type: none;
+  text-align: justify;
+}
+
+.work-experience ul li {
+  margin-bottom: 8px;
+  font-weight: normal;
+  background: none; /* Tar bort den grå bakgrunden */
+  padding: 0; /* Tar bort eventuell padding */
+  border-radius: 0; /* Tar bort eventuella hörnavrundningar */
+}
+.work-experience ul.experience-list li::before {
+  content: "✔";
+  position: absolute;
+  left: 0;
+  color: #f9f9f9;
+  font-size: 15px;
+  font-weight: bold;
+}
+
 
 /* Education Section Styling */
 .education-container {
