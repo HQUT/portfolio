@@ -164,14 +164,14 @@ ul li {
   text-align: center;
 }
 
-/* Work Experience Styling */
+/* Work Experience Sektion */
 .work-experience {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
 }
 
-/* Titel på varje jobb */
+/* Jobbtitlar */
 .work-experience h3 {
   font-size: 20px;
   font-weight: bold;
@@ -179,28 +179,36 @@ ul li {
   margin-top: 15px;
 }
 
-/* Datum under jobbtiteln */
+/* Datum-styling */
 .work-experience p {
   font-style: italic;
   color: #666;
   font-size: 14px;
 }
 
-/* Lista för jobbbeskrivningar i Work Experience */
-.work-experience ul {
+/* Lista för jobb-beskrivningar */
+.work-experience ul.experience-list {
   padding-left: 20px;
-  list-style-type: none; /* Tar bort standardpunkter bara för denna sektion */
+  list-style-type: none;
 }
 
-.work-experience ul li {
+/* Enskilda jobb-punkter */
+.work-experience ul.experience-list li {
   margin-bottom: 8px;
   padding-left: 20px;
   position: relative;
+  font-size: 16px;
+  font-weight: normal;
+  background: none; /* Ta bort bakgrundsfärg */
+  padding: 5px 0; /* Minska padding */
+  border-radius: 0; /* Ta bort rundade hörn */
+  display: flex;
+  align-items: center;
 }
 
 /* Anpassad punkt för jobbansvar */
-.work-experience ul li::before {
-  content: "✔"; /* Ändra till en bock istället för standardpunkt */
+.work-experience ul.experience-list li::before {
+  content: "✔";
   position: absolute;
   left: 0;
   color: #007BFF;
