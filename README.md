@@ -96,7 +96,7 @@ Here I stand now, filled with motivation and an unwavering drive. I’m ready to
     Repositories
   </a>
 
-  <a href="assests/Social Robotics Paper - Hiba Qutbuddin Habib.pdf" download target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/HQUT/portfolio/blob/main/assets/Social%20Robotics%20Paper%20-%20Hiba%20Qutbuddin%20Habib.pdf" download target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/ios-filled/50/000000/pdf.png" alt="PDF Icon" style="vertical-align: middle;">
     Report
   </a>
