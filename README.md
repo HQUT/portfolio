@@ -26,6 +26,7 @@ Here I stand now, filled with motivation and an unwavering drive. I’m ready to
 - Assembly
 - Prolog
 - R
+- PDDL
 
 ---
 
@@ -36,6 +37,7 @@ Here I stand now, filled with motivation and an unwavering drive. I’m ready to
 - Logisim
 - Inviwo
 - ROS (Robotics Operating System)
+- Gazebo
 
 ---
 
@@ -49,7 +51,7 @@ Here I stand now, filled with motivation and an unwavering drive. I’m ready to
 - HIGH SCHOOL, Social Sciences, behavioral science | KATEDRALSKOLA (_2016 - 2019_)
 
 ## Work Experience
-**Study Coach @ KTH Royal Institute of Technology (_September 2024 - Present_)**
+**Study Coach @ KTH Royal Institute of Technology (_September 2024 - December 2024_)**
 - Guided engineering students, sharing effective study techniques and promoting academic success.  
 - Utilized mentorship to support others' learning processes, showcasing leadership and interpersonal skills.
 
@@ -58,7 +60,7 @@ Here I stand now, filled with motivation and an unwavering drive. I’m ready to
 - Trained and mentored new staff, fostering teamwork and collaboration.
 - Utilized problem-solving skills to address customer and operational issues promptly.
 
-**Tutor @ Studybuddy (_September 2021 - Present_)**
+**Tutor @ Studybuddy (_September 2021 - January 2025_)**
 - Developed individualized learning strategies, demonstrating analytical thinking and adaptability.
 - Strengthened communication skills through teaching complex subjects.
 
@@ -87,6 +89,25 @@ Here I stand now, filled with motivation and an unwavering drive. I’m ready to
 ---
 
 ## Projects
+#### Learning Through Confusion in Human-Robot Interaction: A Pilot Study with Furhat Robot
+<div style="display: center; gap: 20px; margin-bottom: 20px;">
+ <a href="https://github.com/andreasnaoum/Learning-Through-Confusion-HRI" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Icon" style="vertical-align: middle;">
+    Repositories
+  </a>
+
+  <a href="path_to_your_report.pdf" download target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/pdf.png" alt="PDF Icon" style="vertical-align: middle;">
+    Download Report
+  </a>
+</div>
+
+**Conducted a pilot study on learning through confusion in Human-Robot Interaction using the Furhat robot.** Designed and implemented an experimental framework to explore how different levels of confusion (no confusion, productive confusion, and unproductive confusion) impact learning and engagement. Participants interacted with the robot in an AI tutoring session where confusion was strategically induced through varying levels of information. Data collection included self-reported feedback, observer ratings, and performance metrics. The study demonstrated that **productively managed confusion enhances engagement and learning**, contributing insights to the development of adaptive educational robots.
+
+<div style="text-align: center;">
+  <img src="assets/FURHAT.png" alt="Proglin" style="width: 100px;">
+</div>
+
 #### Predictive Inventory Management for Stores using Data Analysis
 <div style="display: center; gap: 20px; margin-bottom: 20px;">
  <a href="https://github.com/HQUT/Data_intensive" target="_blank" style="text-decoration: none;">
