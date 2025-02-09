@@ -132,15 +132,22 @@ footer {
   display: block;
 }
 
-/* Fix: Remove bullet points (•) from lists */
+/* Fix: Ta bort punkter från listor */
 ul {
-  list-style-type: none; /* Removes bullet points */
+  list-style-type: none; /* Tar bort punkter */
   padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
 }
 
 ul li {
-  display: inline-block;
-  margin-right: 15px; /* Adds space between items */
+  background: #f0f0f0;
+  padding: 8px 12px;
+  border-radius: 5px;
+  font-weight: bold;
 }
 
 /* Improves spacing for skills section */
