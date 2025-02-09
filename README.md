@@ -17,7 +17,16 @@ Here I stand now, filled with motivation and an unwavering drive. I’m ready to
 
 
 ## Programming Language
-| Java | Python | JavaScript | HTML, CSS | C | C++ | Assembly | Prolog | R | PDDL |
+- Java
+- Python
+- JavaScript
+- HTML, CSS
+- C
+- C++
+- Assembly
+- Prolog
+- R
+- PDDL 
 
 ---
 
